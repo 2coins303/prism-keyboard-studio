@@ -1,0 +1,1975 @@
+{
+  "app": "Prism Keyboard Studio",
+  "version": "2.5.0",
+  "frozen": true,
+  "hardware_access": false,
+  "display_scale": "1",
+  "cases": [
+    {
+      "width": 1360,
+      "height": 900,
+      "tab": "Colors and motion",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "100%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "250%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "500%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "1000%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1360,
+      "height": 900,
+      "tab": "Paint keys",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Brush mode",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Undo",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Redo",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "All",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "WASD",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Arrows",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Function",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Numpad",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Left half",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Right half",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Paint selected",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "Reset selected",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Deselect",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Clear all paint",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1360,
+      "height": 900,
+      "tab": "Audio",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Refresh",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Listen",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "Test L / R",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1346,
+      "height": 740,
+      "tab": "Colors and motion",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "100%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "250%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "500%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "1000%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1346,
+      "height": 740,
+      "tab": "Paint keys",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Brush mode",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Undo",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Redo",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "All",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "WASD",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Arrows",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Function",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Numpad",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Left half",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Right half",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Paint selected",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "Reset selected",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Deselect",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Clear all paint",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1346,
+      "height": 740,
+      "tab": "Audio",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Refresh",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Listen",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "Test L / R",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1100,
+      "height": 740,
+      "tab": "Colors and motion",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "100%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "250%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "500%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "1000%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1100,
+      "height": 740,
+      "tab": "Paint keys",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Brush mode",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Undo",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Redo",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "All",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "WASD",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Arrows",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Function",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Numpad",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Left half",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Right half",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Paint selected",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "Reset selected",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Deselect",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Clear all paint",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1100,
+      "height": 740,
+      "tab": "Audio",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Refresh",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Listen",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "Test L / R",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1700,
+      "height": 740,
+      "tab": "Colors and motion",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "100%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "250%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "500%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "1000%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1700,
+      "height": 740,
+      "tab": "Paint keys",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Brush mode",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Undo",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Redo",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "All",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "WASD",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Arrows",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Function",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Numpad",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Left half",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Right half",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Paint selected",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "Reset selected",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Deselect",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Clear all paint",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1700,
+      "height": 740,
+      "tab": "Audio",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Refresh",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Listen",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "Test L / R",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1100,
+      "height": 1100,
+      "tab": "Colors and motion",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "100%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "250%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "500%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "1000%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1100,
+      "height": 1100,
+      "tab": "Paint keys",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Brush mode",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Undo",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Redo",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "All",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "WASD",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Arrows",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Function",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Numpad",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Left half",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Right half",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Paint selected",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "Reset selected",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Deselect",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Clear all paint",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1100,
+      "height": 1100,
+      "tab": "Audio",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Refresh",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Listen",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "Test L / R",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1360,
+      "height": 900,
+      "tab": "Colors and motion",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "100%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "250%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "500%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "1000%",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1360,
+      "height": 900,
+      "tab": "Paint keys",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Brush mode",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Undo",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Redo",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "All",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "WASD",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Arrows",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Function",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Numpad",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Left half",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Right half",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Paint selected",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "Reset selected",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Deselect",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Clear all paint",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    },
+    {
+      "width": 1360,
+      "height": 900,
+      "tab": "Audio",
+      "buttons": [
+        {
+          "text": "Presets",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Customize",
+          "button_height": 53,
+          "text_height": 21,
+          "font_height": 21
+        },
+        {
+          "text": "Save look",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "+ New",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "More…",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Help",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Huntsman V3 Pro · Change",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Change preset",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Refresh",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Listen",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        },
+        {
+          "text": "Test L / R",
+          "button_height": 40,
+          "text_height": 20,
+          "font_height": 16
+        },
+        {
+          "text": "Pause",
+          "button_height": 44,
+          "text_height": 20,
+          "font_height": 17
+        },
+        {
+          "text": "Apply to keyboard",
+          "button_height": 48,
+          "text_height": 20,
+          "font_height": 19
+        }
+      ]
+    }
+  ],
+  "result": "PASS",
+  "cases_checked": 18,
+  "all_button_text_fits": true,
+  "brightness_apply_remain_visible": true
+}

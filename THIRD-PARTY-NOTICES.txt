@@ -1,0 +1,85 @@
+Prism Keyboard Studio 2.5.0
+Application source is licensed GPL-2.0-or-later. See source/LICENSE.txt.
+Independent software; Razer and Huntsman are Razer trademarks.
+
+openrazer-win 1.6.3 — GPL-2.0-or-later
+https://github.com/Ar4ikov/openrazer-win
+HID transport and protocol builders, derived from OpenRazer.
+The installed version's complete Python package source is in
+source/vendor/openrazer_win. No source modifications were made to that package.
+Prism selects only vendor 1532, product 02A6 and uses the documented
+90-byte control collection on interface 3. It requires status 0x02 responses;
+the upstream library's unfinished BUSY responses are not counted as success.
+
+OpenRazer — GPL-2.0-or-later
+https://github.com/openrazer/openrazer
+02A6 protocol recipes: 6 rows × 22 columns, extended matrix commands,
+transaction 0x1F for custom frames/effects/brightness, 0xFF for identity.
+Prism uses the verified matching extended brightness read (0F:84); the
+upstream standard read is rejected by this connected keyboard firmware.
+
+OpenRGB — GPL-2.0-or-later
+https://github.com/CalcProgrammer1/OpenRGB
+References for the full-size ANSI key layout and Huntsman V3 Pro media zones:
+Controllers/RazerController/RazerDevices.cpp
+KeyboardLayoutManager/KeyboardLayoutManager.cpp
+Relevant reference sources are included in source/references.
+
+Qt for Python / PySide6 Essentials 6.12.0 and Shiboken6 6.12.0
+LGPL-3.0 / GPL options and applicable third-party component licenses.
+https://doc.qt.io/qtforpython-6/licenses.html
+https://download.qt.io/official_releases/QtForPython/pyside6/
+Qt runtime libraries are dynamically loaded from _internal and may be
+replaced by compatible builds. Python source and rebuild instructions are
+included; no technical restriction prevents modification or relinking.
+The shipped package license texts are included in licenses.
+
+NumPy 2.5.4 — BSD-3-Clause and bundled component notices
+https://github.com/numpy/numpy
+
+PyAudioWPatch 0.2.12.9 — Apache-2.0; original PyAudio — MIT;
+PortAudio — MIT-style license
+https://github.com/s0d3s/PyAudioWPatch
+Captures input/playback through Windows WASAPI, shared mode, in memory only.
+
+Python 3.13 — PSF license
+https://www.python.org/downloads/source/
+
+PyInstaller 6.22.3 — GPL with bootloader exception
+https://pyinstaller.org/en/stable/license.html
+Bundling does not add restrictions to the bundled program's own license.
+
+See the licenses directory for bundled license texts and component notices.
+
+
+OPENRGB 1.1 PRIVATE CONNECTION
+Official portable release, SDK 6, build 8e16de2:
+https://codeberg.org/OpenRGB/OpenRGB/releases/tag/release_1.1
+OpenRGB.exe and its DLLs are unmodified. Low-level PawnIO .bin modules are omitted.
+The complete corresponding OpenRGB tag archive is supplied as
+source/OpenRGB-1.1-corresponding-source.zip, including its build instructions.
+OpenRGB's GPL-2.0 license is in licenses/OpenRGB-GPL-2.0.txt.
+The native SDK 6 parser follows OpenRGB's published protocol (same GPL-2.0+ terms).
+The Python openrgb-python package is NOT used or required by the delivered app.
+
+The private helper dynamically uses Qt 6.8.3, LGPL-3.0 / GPL options:
+https://download.qt.io/archive/qt/6.8/6.8.3/single/
+Qt license texts are included under licenses. These libraries remain dynamically
+replaceable. To use a modified helper or compatible replacement DLL, update its
+locally editable SHA256 entry in _internal/bridge-manifest.json. All Prism source
+and rebuild instructions are provided. No cryptographic restriction prevents
+modification, rebuilding or relinking. Keep low-level .bin modules absent.
+
+Additional helper dependencies and corresponding source locations:
+hidapi-hotplug (multi-license BSD/GPL):
+https://codeberg.org/OpenRGB/hidapi-hotplug/src/tag/hidapi-hotplug-0.15.0
+libusb 1.0.27 (LGPL-2.1+):
+https://github.com/libusb/libusb/releases/tag/v1.0.27
+PawnIOLib user-mode DLL (LGPL-2.1-or-later, per the supplied upstream header):
+https://github.com/namazso/PawnIO
+Its presence does not install or activate a kernel driver. No PawnIO payload
+modules are supplied, and launch refuses .bin files in the helper directory.
+Other component notices and dependency directories are in OpenRGB's source.
+
+All brand and model names are their owners' trademarks. Prism is independent
+software and is not endorsed by these manufacturers or the OpenRGB project.

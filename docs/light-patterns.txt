@@ -1,0 +1,64 @@
+PRISM 2.5 - PRESETS AND LIGHT PATTERNS
+
+Open Presets at the top left. This is also the first screen when Prism starts.
+The four Color presets sit above the 31 pattern preview cards. Search or choose
+a category, then click Use preset. Customize opens automatically. Set brightness
+and click Apply to keyboard; Save look keeps your settings under Saved looks.
+
+Presets normally use their suggested colors. Turn on Keep my colors to retain yours. In Customize, click any of the three color swatches
+to edit it. Rainbow effects use the full spectrum; Audio uses its six frequency
+colors. Painted keys stay on top of the selected pattern.
+
+Brightness remains at the bottom of both screens. Set 0-100%; 0% turns
+off every LED, including audio and painted colors. Speed adjusts motion from 0-1000%. The old 0-100% range is unchanged;
+1000% is ten times the old maximum. Use the percentage entry or quick buttons
+in Customize > Colors and motion. Save look remembers it.
+ Direction
+is available for patterns that use it; Left/Up reverse radial rotation or rings.
+Rain starts with Down selected. Ripple is automatic, not triggered by keystrokes.
+
+Keep Prism open for animations. Static-only keyboards offer the four Static
+patterns and painted colors with manual Apply. Without a physical map, lighting
+is uniform; Adjust layout enables spatial motion. Zone-based keyboards show less
+detail than per-key lighting.
+
+AUDIO
+  Audio: Bass through treble respond to your selected audio source.
+
+GLOW AND AMBIENCE
+  Breathing: Your palette slowly fades in and out.
+  Rainbow cycle (new): The whole keyboard smoothly cycles through the spectrum.
+  Aurora (new): Soft curtains of color drift above a dark background.
+  Ocean waves (new): Layered waves wash across the keys like a moonlit sea.
+  Fire (new): Warm, flickering plumes rise from the bottom row.
+  Lava lamp (new): Glowing blobs slowly float and merge.
+  Heartbeat (new): A gentle double pulse runs through your palette.
+  Sunset drift (new): A warm horizon slowly moves through your colors.
+  Plasma (new): Intersecting color waves form a moving, liquid texture.
+  Galaxy (new): Rotating arms of color glow around a bright core.
+
+SPARKLES AND PARTICLES
+  Sparkle: Bright individual lights over a dim palette.
+  Rain (new): Independent trails of light fall across the keyboard.
+  Starfield (new): Scattered stars brighten and fade against the dark.
+  Twinkle (new): A dense, gentle shimmer of independent lights.
+  Fireflies (new): Small glowing lights wander softly over the keys.
+  Confetti (new): Colored flecks gently appear and dissolve.
+
+STATIC
+  Gradient: A smooth blend across the keyboard.
+  Solid: One clean color on every light.
+  Checkerboard (new): Alternating blocks of your first two palette colors.
+  Diagonal bands (new): Diagonal ribbons blend all three of your colors.
+
+WAVES AND MOTION
+  Rainbow wave: A moving ribbon of the full color spectrum.
+  Color flow: Soft palette colors roll across the keys.
+  Rainbow spiral (new): A rainbow curls around the center of your keyboard.
+  Candy stripes (new): Bands of your three colors slide across the keyboard.
+  Color chase (new): Three bright runners chase each other across the keys.
+  Comet (new): A bright head sweeps by with a long, fading tail.
+  Scanner (new): A soft beam sweeps out and returns.
+  Ripple (new): Automatic rings expand from the center in a repeating loop.
+  Radar (new): A rotating beam sweeps around a dim circular field.
+  Pinwheel (new): Three soft palette blades turn around the center.

@@ -1,0 +1,56 @@
+test_full_tkl_compact_use_their_own_matrix (test_bridge.LayoutTests.test_full_tkl_compact_use_their_own_matrix) ... ok
+test_mapping_uses_positions_not_order (test_bridge.LayoutTests.test_mapping_uses_positions_not_order) ... ok
+test_old_profiles_and_device_paint_are_separate (test_bridge.LayoutTests.test_old_profiles_and_device_paint_are_separate) ... ok
+test_padding_is_not_a_key (test_bridge.LayoutTests.test_padding_is_not_a_key) ... ok
+test_zone_missing_geometry_is_mirrored (test_bridge.LayoutTests.test_zone_missing_geometry_is_mirrored) ... ok
+test_catalog_is_exact_and_scoped (test_bridge.ProtocolTests.test_catalog_is_exact_and_scoped) ... ok
+test_non_keyboard_never_resolves (test_bridge.ProtocolTests.test_non_keyboard_never_resolves) ... ok
+test_real_format_parser_and_malformed_packet (test_bridge.ProtocolTests.test_real_format_parser_and_malformed_packet) ... ok
+test_selected_keyboard_only_with_fragmented_tcp (test_bridge.ProtocolTests.test_selected_keyboard_only_with_fragmented_tcp) ... ok
+test_stable_identity_and_stale_layout (test_bridge.ProtocolTests.test_stable_identity_and_stale_layout) ... ok
+test_all_patterns_scale_and_switch_off_every_led_including_paint (test_brightness.BrightnessRendering.test_all_patterns_scale_and_switch_off_every_led_including_paint) ... ok
+test_gallery_numeric_and_slider_changes_sync_and_dim_previews (test_brightness.BrightnessUI.test_gallery_numeric_and_slider_changes_sync_and_dim_previews) ... ok
+test_live_submission_contains_adjusted_brightness (test_brightness.BrightnessUI.test_live_submission_contains_adjusted_brightness) ... ok
+test_static_only_device_keeps_brightness_control (test_brightness.BrightnessUI.test_static_only_device_keeps_brightness_control) ... ok
+test_visible_across_all_tabs_patterns_and_scroll_positions (test_brightness.BrightnessUI.test_visible_across_all_tabs_patterns_and_scroll_positions) ... ok
+test_launch_choose_customize_return_and_saved_look (test_navigation.PresetNavigation.test_launch_choose_customize_return_and_saved_look) ... ok
+test_small_window_and_static_keyboard_keep_presets_usable (test_navigation.PresetNavigation.test_small_window_and_static_keyboard_keep_presets_usable) ... ok
+test_search_category_selection_keep_colors_and_undo (test_patterns.PatternGallery.test_search_category_selection_keep_colors_and_undo) ... ok
+test_static_only_device_cannot_select_new_animations (test_patterns.PatternGallery.test_static_only_device_cannot_select_new_animations) ... ok
+test_each_new_animation_moves_and_static_patterns_hold (test_patterns.PatternRendering.test_each_new_animation_moves_and_static_patterns_hold) ... ok
+test_every_recipe_is_available_and_round_trips (test_patterns.PatternRendering.test_every_recipe_is_available_and_round_trips) ... ok
+test_new_effects_cover_all_layouts_directions_and_extremes (test_patterns.PatternRendering.test_new_effects_cover_all_layouts_directions_and_extremes) ... ok
+test_physical_positions_determine_effects_not_key_order (test_patterns.PatternRendering.test_physical_positions_determine_effects_not_key_order) ... ok
+test_unmapped_lights_stay_uniform_and_painted_keys_win (test_patterns.PatternRendering.test_unmapped_lights_stay_uniform_and_painted_keys_win) ... ok
+test_all_tabs_preserve_button_text_when_window_shape_changes (test_resize.ResizeRegression.test_all_tabs_preserve_button_text_when_window_shape_changes) ... ok
+test_every_animation_runs_ten_times_faster_at_the_new_maximum (test_speed.SpeedRange.test_every_animation_runs_ten_times_faster_at_the_new_maximum) ... ok
+test_high_speed_round_trip_drafts_and_range_validation (test_speed.SpeedRange.test_high_speed_round_trip_drafts_and_range_validation) ... ok
+test_original_low_range_and_saved_pace_are_exactly_preserved (test_speed.SpeedRange.test_original_low_range_and_saved_pace_are_exactly_preserved) ... ok
+test_exact_entry_quick_speeds_preserve_phase_and_disable_when_irrelevant (test_speed.SpeedUI.test_exact_entry_quick_speeds_preserve_phase_and_disable_when_irrelevant) ... ok
+test_switch_closes_previous_input_and_clears_samples (test_studio.AudioLifecycle.test_switch_closes_previous_input_and_clears_samples) ... ok
+test_unavailable_source_never_reuses_old_capture (test_studio.AudioLifecycle.test_unavailable_source_never_reuses_old_capture) ... ok
+test_unplugged_capture_reports_error_and_closes (test_studio.AudioLifecycle.test_unplugged_capture_reports_error_and_closes) ... ok
+test_another_controllers_transaction_is_rejected (test_studio.DeviceBehavior.test_another_controllers_transaction_is_rejected) ... ok
+test_busy_is_not_success (test_studio.DeviceBehavior.test_busy_is_not_success) ... ok
+test_full_frame_ack_count_and_shape (test_studio.DeviceBehavior.test_full_frame_ack_count_and_shape) ... ok
+test_worker_disconnect_pause_reconnect (test_studio.DeviceBehavior.test_worker_disconnect_pause_reconnect) ... Keyboard transfer stopped: unplugged
+ok
+test_all_effects_have_bounded_complete_frames (test_studio.Effects.test_all_effects_have_bounded_complete_frames) ... ok
+test_mapped_keys_have_unique_cells (test_studio.Effects.test_mapped_keys_have_unique_cells) ... ok
+test_overrides_and_brightness (test_studio.Effects.test_overrides_and_brightness) ... ok
+test_audio_color_uses_frequency_and_physical_side (test_studio.FrequencyTests.test_audio_color_uses_frequency_and_physical_side) ... ok
+test_each_frequency_hits_its_own_band (test_studio.FrequencyTests.test_each_frequency_hits_its_own_band) ... ok
+test_mono_is_mirrored (test_studio.FrequencyTests.test_mono_is_mirrored) ... ok
+test_silence_decays_and_nan_is_safe (test_studio.FrequencyTests.test_silence_decays_and_nan_is_safe) ... ok
+test_stereo_channels_do_not_cross (test_studio.FrequencyTests.test_stereo_channels_do_not_cross) ... ok
+test_bad_import_is_atomic (test_studio.Profiles.test_bad_import_is_atomic) ... ok
+test_corrupt_library_keeps_recovery_copy (test_studio.Profiles.test_corrupt_library_keeps_recovery_copy) ... ok
+test_drafts_survive_without_overwriting_saved (test_studio.Profiles.test_drafts_survive_without_overwriting_saved) ... ok
+test_rejects_unknown_keys_and_wrong_audio_shape (test_studio.Profiles.test_rejects_unknown_keys_and_wrong_audio_shape) ... ok
+test_round_trip_keeps_audio_keys_and_last_profile (test_studio.Profiles.test_round_trip_keeps_audio_keys_and_last_profile) ... ok
+test_setup_filters_closes_and_keeps_device_paint_separate (test_ui.UIFlow.test_setup_filters_closes_and_keeps_device_paint_separate) ... ok
+
+----------------------------------------------------------------------
+Ran 50 tests in 11.667s
+
+OK

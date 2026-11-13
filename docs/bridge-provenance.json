@@ -1,0 +1,23 @@
+{
+  "official_release": "https://openrgb.org/releases.html",
+  "asset": "https://codeberg.org/OpenRGB/OpenRGB/releases/download/release_1.1/OpenRGB_1.1_Windows_64_8e16de2.zip",
+  "source": "https://codeberg.org/OpenRGB/OpenRGB/archive/release_1.1.zip",
+  "published_asset_bytes": 22019605,
+  "downloaded_bytes": 22019605,
+  "sha256": {
+    "official_portable_archive": "63291726c6fc84eb479ef2ee752e97e1187f6ce9c49fd27eee40ded588a8172a",
+    "corresponding_source": "41787425923b7e1e9f314bc4f09b7e0c31da5db94c10858f37ae7366c31655d2",
+    "OpenRGB.exe": "e26ae71162795a8abcfb90c05c1572a00ba06ca63b886aca57392a0138963b1e"
+  },
+  "verification": "Downloaded from the official release link over HTTPS; size matches release API. No publisher checksum or signature was supplied in release assets. Hashes are locally computed integrity pins, not publisher authentication.",
+  "modifications": "Executable and DLLs unmodified. All .bin PawnIO modules omitted. Launch refuses additional .bin files and checks every supplied binary hash. Private APPDATA/bootstrap and --config directory; one allowlisted keyboard detector; local 127.0.0.1 server; no elevation.",
+  "brand_variant_counts": {
+    "ASUS": 29,
+    "Corsair": 33,
+    "HyperX": 11,
+    "Keychron": 1,
+    "Logitech": 8,
+    "Razer": 51,
+    "SteelSeries": 19
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "result": "PASS",
+  "version": "2.5.0",
+  "checked_at_utc": "2026-11-13T09:01:30.527682+00:00",
+  "automated_tests": 50,
+  "clean_build": true,
+  "keyboard_access": false,
+  "resize": [
+    {
+      "display_scale": "1",
+      "cases": 18,
+      "button_text_fits": true
+    },
+    {
+      "display_scale": "1.5",
+      "cases": 18,
+      "button_text_fits": true
+    }
+  ],
+  "speed": {
+    "maximum_percent": 1000,
+    "unchanged_old_frames": 93,
+    "animations_at_10x": 26,
+    "phase_continuity": true,
+    "fast_profile_save_and_import": true
+  },
+  "executable_sha256": "0ccadf5ada444a1e0b5bac5aaf3c326005f7047e9381b0827323715ca1f169e5"
+}

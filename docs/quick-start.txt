@@ -1,0 +1,50 @@
+PRISM KEYBOARD STUDIO 2.5
+
+Close the old Prism window, then open the updated desktop shortcut.
+Saved looks are kept. The first normal launch backs up your profile library to
+profiles.before-v2.5.json in %LOCALAPPDATA%\PrismKeyboardStudio.
+
+QUICK START
+1. Presets: choose Use preset on a card. Color palettes are above the cards.
+2. Customize: adjust colors, speed, painted keys or audio.
+3. Set Brightness, then Apply to keyboard.
+4. Save look keeps your settings in Saved looks.
+
+WHAT CHANGED
+Less text, larger pill-shaped buttons, rounded tabs and bigger color swatches.
+Hover for extra instructions and pattern descriptions. Help has the full basics.
+In short windows, scroll Customize to see the lower controls. Brightness and
+Apply stay visible. Presets is always the first button in the sidebar.
+
+CONTROLS
+Speed: 0-1000%, with quick 100%, 250%, 500% and 1000% buttons. The low range is
+unchanged; 1000% is ten times the former maximum. Static looks and Audio do not
+use animation speed. Brightness applies to every light; 0% turns them all off.
+
+Paint: select keys, then Paint selected. Brush mode lets you paint by dragging.
+Reset selected returns keys to the pattern. Clear all paint removes painted colors.
+Audio: choose PC audio or a microphone, then Listen and Apply. Mono is mirrored.
+Hover over colors for frequency ranges. Nothing is recorded or uploaded.
+
+Edits apply live after Apply. Keep Prism open for animations. Pause stops updates
+and audio capture. More contains Rename, Duplicate, Restore saved look, Import,
+Export and Delete. Restore saved look discards changes to the saved profile.
+
+KEYBOARDS
+Close other lighting controllers first. Your full-size Huntsman V3 Pro can use
+the direct USB connection. For other models, click the keyboard name, search for
+the exact model, then Connect keyboard. See KEYBOARD COMPATIBILITY.html for the
+152 exact USB variants and evidence; only this PC's Huntsman was hardware-tested.
+Static-only models require Apply for each change and cannot stream animations.
+
+The supplied local helper closes with Prism. No drivers, firmware, services or
+startup entries are installed. Advanced can use an existing local OpenRGB server.
+Keep bridge, _internal and source beside the application.
+
+Release (in Help) restores initial brightness on direct USB or initial colors
+through the bridge. It does not reconstruct an earlier animated hardware effect.
+Prism controls lighting only, not actuation, macros or key assignments.
+
+Profiles, layouts and logs: %LOCALAPPDATA%\PrismKeyboardStudio
+Pattern guide: LIGHT PATTERNS.txt
+Verification: VERIFICATION.txt

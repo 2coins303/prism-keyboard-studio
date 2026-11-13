@@ -1,0 +1,34 @@
+PRISM KEYBOARD STUDIO 2.5 - UI VERIFICATION
+
+Completed November 13, 2026 (America/New_York).
+
+All 50 existing automated checks passed. The delivered executable passed the
+18-case resize regression at 100% and 150% display scaling. Button text fits,
+Brightness and Apply remain visible, and the preset grid has no horizontal overflow.
+Rendered Presets, Colors, Paint and Audio were visually reviewed. Setup, layout
+mapping and Help were rendered from source and their button text was also checked.
+
+The packaged speed check passed: 93 old reference frames remain byte-identical,
+all 26 animations retain the 10x maximum, and quick controls, speed persistence,
+phase continuity and exact percentage input still work.
+
+Checks use isolated temporary profiles and offscreen windows. No lighting was
+sent to the keyboard, no audio was captured and no desktop was automated.
+Only presentation changed. Pattern recipes, timing, audio analysis, connection
+code and hardware refresh rates are unchanged from 2.4. The bridge matches every
+manifest hash, with no PawnIO .bin payloads. Prior hardware evidence is retained.
+
+The live profile library and old executable remained unchanged during checks.
+No running app was stopped and no visible window was opened automatically.
+
+Executable SHA256:
+2b289101868a0d9bc7da1596382bb971b0d3042e71ef7a8ba4a3ba9232017078
+
+Evidence:
+verification/automated-tests.txt
+verification/packaged-speed-check.json
+verification/resize-100/report.json
+verification/resize-150/report.json
+Prism 2.5 presets.png
+Prism 2.5 paint.png
+Prism 2.5 audio.png

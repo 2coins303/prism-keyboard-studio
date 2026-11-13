@@ -1,0 +1,26 @@
+# Local work, earlier releases, credentials and user settings never belong in Git.
+/work/
+/outputs/
+/bridge/
+/dist/
+/build/
+/release/
+/.cache/
+/.venv/
+/.build-env/
+**/.build-work/
+**/__pycache__/
+*.py[cod]
+*.log
+*.lnk
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+profiles*.json
+layouts.json
+studio.lock
+/src/OpenRGB-1.1-corresponding-source.zip
+.DS_Store
+Thumbs.db

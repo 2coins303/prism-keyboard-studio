@@ -1,0 +1,16 @@
+{
+  "app": "Prism Keyboard Studio",
+  "version": "2.5.0",
+  "frozen": true,
+  "hardware_access": false,
+  "unchanged_old_frames": 93,
+  "animations_at_10x": 26,
+  "result": "PASS",
+  "maximum_percent": 1000,
+  "maximum_multiplier": 10,
+  "old_low_range_unchanged": true,
+  "quick_controls": true,
+  "phase_continuity": true,
+  "fast_profile_save_and_import": true,
+  "controls_readable": true
+}
