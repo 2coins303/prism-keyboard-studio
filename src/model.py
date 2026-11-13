@@ -16,7 +16,7 @@ import numpy as np
 from patterns import EXTRA_PATTERNS,STATIC_PATTERNS,NEW_PALETTES,pattern_color
 
 APP_NAME = 'Prism Keyboard Studio'
-VERSION = '2.5.0'
+VERSION = '2.5.1'
 MAX_SPEED = 1000
 EFFECTS = ['Gradient', 'Rainbow wave', 'Solid', 'Breathing', 'Color flow', 'Sparkle', 'Audio']
 EFFECTS += EXTRA_PATTERNS

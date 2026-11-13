@@ -1,4 +1,4 @@
-Prism Keyboard Studio 2.5.0
+Prism Keyboard Studio 2.5.1
 Application source is licensed GPL-2.0-or-later. See source/LICENSE.txt.
 Independent software; Razer and Huntsman are Razer trademarks.
 

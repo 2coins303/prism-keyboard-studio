@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.5.1
+
+- Fixed color-picker buttons inheriting the selected swatch color and losing their contrast and padding.
+- OK, Cancel, Pick Screen Color, and Add to Custom Colors remain readable for every swatch color.
+- Added a regression check for palette, brush, and audio color pickers at normal and enlarged display scaling.
+
 ## 2.5.0
 
 - Shorter text across Presets, Customize, Paint, Audio, setup, and Help.

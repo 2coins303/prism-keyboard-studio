@@ -114,9 +114,12 @@ class ColorButton(QPushButton):
     chosen=Signal(str)
     def __init__(self,color,title='Choose a color'):
         super().__init__(); self.color=color; self.title=title; self.setCursor(Qt.PointingHandCursor)
+        self.setObjectName('colorSwatch')
         self.setFixedSize(56,40); self.setAccessibleName(title); self.refresh(); self.clicked.connect(self.choose)
     def refresh(self):
-        self.setStyleSheet(f'QPushButton {{background:{self.color};border:2px solid #d7b7ee;border-radius:18px;padding:0;min-height:36px;}} QPushButton:hover {{border-color:white;}}')
+        # The color dialog is our child: unqualified button rules would also
+        # recolor and shrink its OK, Cancel and custom-color controls.
+        self.setStyleSheet(f'QPushButton#colorSwatch {{background:{self.color};border:2px solid #d7b7ee;border-radius:18px;padding:0;min-height:36px;}} QPushButton#colorSwatch:hover {{border-color:white;}}')
         self.setToolTip(f'{self.title} · {self.color.upper()}')
     def set_color(self,color): self.color=color; self.refresh()
     def choose(self):
@@ -795,7 +798,7 @@ def main():
     logging.basicConfig(level=logging.WARNING,handlers=[handler],format='%(asctime)s %(levelname)s %(message)s')
     lock=QLockFile(str(directory/'studio.lock')); lock.setStaleLockTime(0)
     if not lock.tryLock(100):
-        QMessageBox.information(None,APP_NAME,'Prism is already open. Close its current window, then reopen this shortcut to use version 2.5.'); return 0
+        QMessageBox.information(None,APP_NAME,f'Prism is already open. Close its current window, then reopen this shortcut to use version {VERSION}.'); return 0
     try:
         window=Studio(directory,offline='--preview-only' in sys.argv); window.show()
         if '--icon' in sys.argv:

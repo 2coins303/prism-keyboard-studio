@@ -8,7 +8,7 @@ A Windows app for keyboard lighting: 31 patterns, per-key painting, live audio e
 
 ## Run the app
 
-1. Download `Prism-Keyboard-Studio-2.5.0-Windows-x64.zip` from Releases.
+1. Download `Prism-Keyboard-Studio-2.5.1-Windows-x64.zip` from Releases.
 2. Extract the entire ZIP, then open **Prism Keyboard Studio.exe**.
 3. Choose a preset, click **Apply to keyboard**, then **Save look**.
 
@@ -56,7 +56,7 @@ To run only the tests:
 .\.venv\Scripts\python.exe -m unittest discover -s src -v
 ```
 
-All 50 tests passed for the initial upload. The packaged app also passed resize checks at 100% and 150% scaling and the speed/profile checks. [Verification reports](docs/verification/) are included. GitHub Actions runs the same test suite and a packaging check on Windows.
+All 51 tests pass, including color-picker contrast and button sizing for light and dark swatches. The packaged app also passes resize checks at 100% and 150% scaling and the speed/profile checks. [Verification reports](docs/verification/) are included. GitHub Actions runs the same test suite and a packaging check on Windows.
 
 For isolated app checks, use `--check-resize REPORT.json` or `--check-speed REPORT.json`. Both use offscreen windows and temporary profiles, without keyboard access. Other legacy verification switches can access physical hardware; see [the source notes](src/README.txt) before using them.
 

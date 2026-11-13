@@ -1,0 +1,26 @@
+{
+  "version": "2.5.1",
+  "result": "PASS",
+  "automated_tests": 51,
+  "keyboard_access": false,
+  "checks": [
+    {
+      "scale": "1",
+      "resize_cases": 18,
+      "color_picker_cases": 12,
+      "minimum_button_contrast": 11.09,
+      "button_text_fits": true,
+      "cancel_preserves_color": true
+    },
+    {
+      "scale": "1.5",
+      "resize_cases": 18,
+      "color_picker_cases": 12,
+      "minimum_button_contrast": 11.09,
+      "button_text_fits": true,
+      "cancel_preserves_color": true
+    }
+  ],
+  "speed_checks": "PASS",
+  "executable_sha256": "6bfd42816a4268e461cc6349dd6e7f3f8af008175b500ddfdd583e9a24839d05"
+}

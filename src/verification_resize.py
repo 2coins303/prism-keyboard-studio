@@ -65,6 +65,9 @@ def check_resize(app,Studio,report_path):
         window=Studio(directory,offline=True)
         try:
             report['cases']=exercise_resize(window,report_path.parent)
+            from verification_color_picker import exercise_color_pickers
+            report['color_picker_cases']=exercise_color_pickers(window,report_path.parent)
+            report['color_picker_buttons_readable']=True
             report.update(result='PASS',cases_checked=len(report['cases']),all_button_text_fits=True,brightness_apply_remain_visible=True)
         except Exception:report.update(result='FAIL',error=traceback.format_exc())
         finally:window.close();app.processEvents()

@@ -27,4 +27,14 @@ class ResizeRegression(unittest.TestCase):
                 self.assertTrue(any(b['text']=='Paint selected' for b in paint['buttons']))
             finally:window.close();self.app.processEvents()
 
+    def test_color_picker_buttons_are_readable_for_light_and_dark_swatches(self):
+        from verification_color_picker import exercise_color_pickers
+        with tempfile.TemporaryDirectory() as directory:
+            window=Studio(directory,offline=True)
+            try:
+                window.show();window.timer.stop()
+                cases=exercise_color_pickers(window)
+                self.assertEqual(len(cases),12)
+            finally:window.close();self.app.processEvents()
+
 if __name__=='__main__':unittest.main()

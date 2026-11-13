@@ -1,4 +1,4 @@
-PRISM KEYBOARD STUDIO 2.5
+PRISM KEYBOARD STUDIO 2.5.1
 
 Close the old Prism window, then open the updated desktop shortcut.
 Saved looks are kept. The first normal launch backs up your profile library to
@@ -11,6 +11,7 @@ QUICK START
 4. Save look keeps your settings in Saved looks.
 
 WHAT CHANGED
+Color-picker buttons keep their contrast and size, even with pale swatches.
 Less text, larger pill-shaped buttons, rounded tabs and bigger color swatches.
 Hover for extra instructions and pattern descriptions. Help has the full basics.
 In short windows, scroll Customize to see the lower controls. Brightness and

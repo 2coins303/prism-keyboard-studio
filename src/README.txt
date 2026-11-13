@@ -1,4 +1,4 @@
-Prism Keyboard Studio 2.5 source
+Prism Keyboard Studio 2.5.1 source
 
 Run build.ps1 at the project root with Python 3.13 on Windows to fetch verified dependencies, run the checks, and rebuild the portable Windows ZIP. This source-folder build.ps1 forwards to that entry point. Keep the supplied bridge folder adjacent to the app. See the root README.md for development and build commands.
 
@@ -77,3 +77,10 @@ brightness and resize regression. --check-resize renders all main pages and
 checks button text after 18 tab/window changes, with no keyboard access.
 Animation timing, hardware refresh rates, pattern recipes, audio analysis,
 keyboard transport and profile formats are unchanged from version 2.4.
+
+Version 2.5.1 confines each color swatch's stylesheet to the swatch itself.
+The child color picker retains the application button colors and padding, so
+light selected colors cannot hide OK, Cancel or the custom-color buttons.
+51 tests pass. --check-resize now also checks 12 real color-picker dialogs
+(palette, brush and audio, each with four light/dark colors) for text fit,
+minimum 4.5:1 button contrast and preservation of the color when cancelling.
